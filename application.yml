@@ -8,4 +8,4 @@
      prefer-ip-address: true
 spring:
  application:
-  name: Config-default
+   name: Config-default
